@@ -38,10 +38,10 @@ async def start_(client: Client, message: Message):
  I am the fastest telegram music bot 💞
  ...
 
-   💘Owner : [Toxic](https://t.me/wtf_toxicop) 
-   💘Updates : [channel](https://t.me/DANGEROUSFIGHTER)
-   💘Group : [Dangerous](https://t.me/Dangerousfighters)
-   💘Dusragroup: [8x](https://t.me/Clan8Xofficial)
+   💘Owner   :[Toxic](https://t.me/wtf_toxicop) 
+   💘Updates :[channel](https://t.me/DANGEROUSFIGHTER)
+   💘Group   :[Dangerous](https://t.me/Dangerousfighters)
+   💘2 group :[8x](https://t.me/Clan8Xofficial)
 
 
 💞 Koi issue ho toh
