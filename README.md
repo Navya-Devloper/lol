@@ -22,4 +22,4 @@
 
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 ### Owner Of This Repository
-[![TOXIC](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://t.me/wtf_toxicop)
+[![TOXIC](https://telegra.ph//file/df6dd71fe22b4c51f8594.jpg)](https://t.me/wtf_toxicop)
